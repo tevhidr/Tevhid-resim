@@ -1,0 +1,14 @@
+{
+  "name": "tevhidresim",
+  "version": "1.0.0",
+  "description": "\"# Tevhid-resim\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
